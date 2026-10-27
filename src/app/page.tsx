@@ -140,8 +140,8 @@ export default function Portfolio() {
                   src="/profile.jpg"
                   alt="G Sneha"
                   width={320}
-                  height={320}
-                  className="object-cover w-full h-full"
+                  height={400}
+                  className="object-cover object-top w-full h-full scale-110"
                   priority
                 />
               </div>
